@@ -13,12 +13,13 @@ Overcoming the Inconsistency Since there is timestamp attached to data in the sd
 
 1.Layout
 ![img_20180119_120945](https://user-images.githubusercontent.com/30165974/35169038-1a7b7ec0-fd6c-11e7-9489-37a00773c84e.jpg)
+
 2.Deployment
-![img_20180119_144032](https://user-images.githubusercontent.com/30165974/35169338-42c22a2c-fd6d-11e7-86d0-8070f14997f3.jpg)
+ ![img_20180119_144032](https://user-images.githubusercontent.com/30165974/35169338-42c22a2c-fd6d-11e7-86d0-8070f14997f3.jpg)
 
 
 
-
+Rugged device & environment.
 ![img_20180119_144003](https://user-images.githubusercontent.com/30165974/35169878-3b08f188-fd6f-11e7-8a54-9e9a0273b2c8.jpg)
 
 This is the distribution and mapping aspect of folum on thinspeak.
