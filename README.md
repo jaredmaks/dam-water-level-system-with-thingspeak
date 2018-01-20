@@ -17,10 +17,10 @@ Overcoming the Inconsistency Since there is timestamp attached to data in the sd
 2.![img_20180119_144032](https://user-images.githubusercontent.com/30165974/35169338-42c22a2c-fd6d-11e7-86d0-8070f14997f3.jpg)
 3.![img_20180119_144003](https://user-images.githubusercontent.com/30165974/35169878-3b08f188-fd6f-11e7-8a54-9e9a0273b2c8.jpg)
 
-This is the distribution and mapping aspect of folum on thinspeak.
+This is the distribution and mapping aspect of folum on thinspeak."end--Data visualization."
 ![11](https://user-images.githubusercontent.com/30165974/35180506-07e2fc8c-fdc3-11e7-8ed0-0ba661ecd1c6.PNG)![2](https://user-images.githubusercontent.com/30165974/35180510-13e13576-fdc3-11e7-983f-333785e6bde3.PNG)
 ![3](https://user-images.githubusercontent.com/30165974/35180516-1ba51a70-fdc3-11e7-8a98-269c64df23eb.PNG)
-Data visualization.
+
 
 ![qq](https://user-images.githubusercontent.com/30165974/35180529-4a0cda38-fdc3-11e7-8893-2d935d83f83c.PNG)
 
