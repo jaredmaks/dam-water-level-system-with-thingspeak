@@ -21,6 +21,7 @@ This is the distribution and mapping aspect of folum on thinspeak."end--Data vis
 ![11](https://user-images.githubusercontent.com/30165974/35180506-07e2fc8c-fdc3-11e7-8ed0-0ba661ecd1c6.PNG)![2](https://user-images.githubusercontent.com/30165974/35180510-13e13576-fdc3-11e7-983f-333785e6bde3.PNG)
 ![3](https://user-images.githubusercontent.com/30165974/35180516-1ba51a70-fdc3-11e7-8a98-269c64df23eb.PNG)
 
+![data snip](https://user-images.githubusercontent.com/30165974/35180633-47472e1e-fdc5-11e7-9bdf-1be838a5eb7e.PNG)
 
 ![qq](https://user-images.githubusercontent.com/30165974/35180529-4a0cda38-fdc3-11e7-8893-2d935d83f83c.PNG)
 
