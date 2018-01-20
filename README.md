@@ -11,9 +11,11 @@ Future Improvements: Consistent recording on sd card for a while before trying t
 
 Overcoming the Inconsistency Since there is timestamp attached to data in the sd card and data stored in ThingSpeak Servers a sorting software can be used to inject data recorded on the sd card to csv file downloaded from thingspeak when doing analysis.
 
-1.Layout![img_20180119_120945](https://user-images.githubusercontent.com/30165974/35169038-1a7b7ec0-fd6c-11e7-9489-37a00773c84e.jpg)
-2.Deployment![img_20180119_144032](https://user-images.githubusercontent.com/30165974/35169338-42c22a2c-fd6d-11e7-86d0-8070f14997f3.jpg)
-Rugged device & environment.![img_20180119_144003](https://user-images.githubusercontent.com/30165974/35169878-3b08f188-fd6f-11e7-8a54-9e9a0273b2c8.jpg)
+1.Layout, 2.Deployment,3.Rugged device & environment
+
+1.![img_20180119_120945](https://user-images.githubusercontent.com/30165974/35169038-1a7b7ec0-fd6c-11e7-9489-37a00773c84e.jpg)
+2.![img_20180119_144032](https://user-images.githubusercontent.com/30165974/35169338-42c22a2c-fd6d-11e7-86d0-8070f14997f3.jpg)
+3.![img_20180119_144003](https://user-images.githubusercontent.com/30165974/35169878-3b08f188-fd6f-11e7-8a54-9e9a0273b2c8.jpg)
 
 This is the distribution and mapping aspect of folum on thinspeak.
 ![11](https://user-images.githubusercontent.com/30165974/35180506-07e2fc8c-fdc3-11e7-8ed0-0ba661ecd1c6.PNG)![2](https://user-images.githubusercontent.com/30165974/35180510-13e13576-fdc3-11e7-983f-333785e6bde3.PNG)
