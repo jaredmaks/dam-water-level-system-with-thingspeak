@@ -22,8 +22,7 @@ Overcoming the Inconsistency Since there is timestamp attached to data in the sd
 ![img_20180119_144003](https://user-images.githubusercontent.com/30165974/35169878-3b08f188-fd6f-11e7-8a54-9e9a0273b2c8.jpg)
 
 
-![11](https://user-images.githubusercontent.com/30165974/35180506-07e2fc8c-fdc3-11e7-8ed0-0ba661ecd1c6.PNG)
-![2](https://user-images.githubusercontent.com/30165974/35180510-13e13576-fdc3-11e7-983f-333785e6bde3.PNG)
+![11](https://user-images.githubusercontent.com/30165974/35180506-07e2fc8c-fdc3-11e7-8ed0-0ba661ecd1c6.PNG)![2](https://user-images.githubusercontent.com/30165974/35180510-13e13576-fdc3-11e7-983f-333785e6bde3.PNG)
 ![3](https://user-images.githubusercontent.com/30165974/35180516-1ba51a70-fdc3-11e7-8a98-269c64df23eb.PNG)
 ![qq](https://user-images.githubusercontent.com/30165974/35180529-4a0cda38-fdc3-11e7-8893-2d935d83f83c.PNG)
 
