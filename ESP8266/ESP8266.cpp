@@ -32,7 +32,7 @@ void ESP8266::AddChar(char * s, char c) {
 void ESP8266::itoa(int n, char * s) {
     char k = 0;
     char r[11];
-    
+
     if(n == 0) {
         s[0] = '0';
         s[1] = 0;
@@ -69,7 +69,7 @@ bool ESP8266::RcvReply(char * r, int to) {
     Timer t;
     bool ended = 0;
     char c;
-    
+
     strcpy(r, "");
     t.start();
     while(!ended) {
@@ -185,12 +185,12 @@ void ESP8266::startTCPConn(char *IP, int port){
 
 void ESP8266::sendURL(char *URL, char *command){
     char url[300], snd[300], http_cmd[300];
-    
+
     strcpy(http_cmd, HTTPCMD);
-    
+
     strcat(http_cmd, URL);
     strcat(http_cmd, protocol);
-    
+
     strcpy(url, http_cmd);
     sprintf(snd,"AT+CIPSENDEX=%d",strlen(url));
     strcpy(command, url);
@@ -198,5 +198,9 @@ void ESP8266::sendURL(char *URL, char *command){
     wait(3);
     SendCMD(url);
 }
-    
-    
+
+void ESP8266::DeepSleep() {
+    char *cmd = "AT+GSLP=1";
+    SendCMD(cmd);
+}
+
