@@ -37,6 +37,10 @@ void CloseServerMode(void);
 void setTransparent(void);
 void startTCPConn(char * IP, int port);
 void sendURL(char *URL, char *command);
+/**
+ * Turn the ESP8266 into deep sleep
+ */
+void DeepSleep();
 
 private:
 Serial comm;
@@ -45,7 +49,7 @@ void AddChar(char * s, char c);
 void itoa(int c, char s[]);
 
 };
-  
+
 #endif
 /*
     COMMAND TABLE
@@ -56,7 +60,7 @@ void itoa(int c, char s[]);
     AT+CWMODE: define wifi mode; AT+CWMODE=<mode> 1= Sta, 2= AP, 3=both; Inquiry: AT+CWMODE? or AT+CWMODE=?
     AT+CWJAP: join the AP wifi; AT+ CWJAP =<ssid>,< pwd > - ssid = ssid, pwd = wifi password, both between quotes; Inquiry: AT+ CWJAP?
     AT+CWLAP: list the AP wifi
-    AT+CWQAP: quit the AP wifi; Inquiry: AT+CWQAP=?  
+    AT+CWQAP: quit the AP wifi; Inquiry: AT+CWQAP=?
     * AT+CWSAP: set the parameters of AP; AT+CWSAP= <ssid>,<pwd>,<chl>,<ecn> - ssid, pwd, chl = channel, ecn = encryption; Inquiry: AT+CWJAP?
     TCP/IP:
     AT+CIPSTATUS: get the connection status
